@@ -1,0 +1,9 @@
+# local regen artifacts, not part of the published repo
+output/
+data/
+.Rhistory
+.RData
+.Rproj.user/
+*.Rds
+*.h5ad
+__pycache__/

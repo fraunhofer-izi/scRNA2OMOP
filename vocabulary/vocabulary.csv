@@ -1,0 +1,9 @@
+source_vocabulary_id,Covers
+ULEI_CLIN,"pdata.clin categorical fields (SEX, PRODUCT, EMD, etc.)"
+ULEI_STAGING,"Staging system values (R-ISS, Salmon-Durie)"
+ULEI_RESPONSE,"IMWG treatment response codes (CR, sCR, VGPR, PR, SD, PD)"
+ULEI_CRS,"pdata.crs categorical fields (CRS_GRADE, ICANS)"
+ULEI_IMM,"pdata.imm.s measurement names"
+ULEI_TSUB,"pdata.t.s measurement names"
+ULEI_ELISA,"pdata.elisa measurement names"
+ULEI_UNIT,"unit strings (mg/L, pg/mL, ng/mL, cells/uL, %)"

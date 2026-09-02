@@ -1,0 +1,3 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+2000010001,Single-cell RNA sequencing dataset,Observation,CERTAINTY,Observable Entity,NULL,2000010001,1970-01-01,2099-12-31,
+2000010003,CAR-positive T-cell fraction by single-cell RNA-seq,Measurement,CERTAINTY,Lab Test,NULL,2000010003,1970-01-01,2099-12-31,
